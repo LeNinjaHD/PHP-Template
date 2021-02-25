@@ -1,2 +1,2 @@
 # PHP-Template
-A Template, for creating PHP Applications
+A Template for creating PHP Applications
